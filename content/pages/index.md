@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Learn from the Experts
+    title: Master the Future of Web Development
     subtitle: Featuring Web Development NC III
     text: >
       This is the HeroSection component. You can visually edit this component &
