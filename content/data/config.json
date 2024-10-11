@@ -21,6 +21,13 @@
                 "label": "Courses",
                 "url": "https://docs.netlify.com/visual-editor/overview/",
                 "underline": "hover"
+            },
+            {
+                "type": "Link",
+                "label": "Partners",
+                "url": "/",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
