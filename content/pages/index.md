@@ -28,7 +28,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Featured Courses/ Programs
-    subtitle: Section subtitle here
+    subtitle: TESDA courses
     items:
       - type: Card
         title: First Card Title
