@@ -38,7 +38,7 @@ sections:
         title: Web Development NC III
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/09.10.2024_22.24.42_REC.png
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
