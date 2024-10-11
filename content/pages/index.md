@@ -27,7 +27,7 @@ sections:
       url: /images/hero2.png
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Featured Courses/ Programs
     subtitle: Section subtitle here
     items:
       - type: Card
