@@ -94,7 +94,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Item Title
+        title: Automotive Servicing (Electrical Repair) NC II
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
