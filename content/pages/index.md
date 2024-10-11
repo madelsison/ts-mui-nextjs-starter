@@ -61,7 +61,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Third Card Title
+        title: Visual Graphic Design NC III
         image:
           type: Image
           url: /images/ts.svg
