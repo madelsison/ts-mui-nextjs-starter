@@ -6,9 +6,13 @@ sections:
     title: Master the Future of Web Development
     subtitle: Featuring Web Development NC III
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      Build cutting-edge websites, craft stunning user interfaces, and innovate
+      with the latest technologies. Whether you're a beginner or a pro, our
+      comprehensive course will equip you with the skills to create responsive,
+      dynamic, and engaging web experiences. Join the digital revolution,
+      unleash your creativity, and bring your ideas to life!
+
+       [Learn more.](https://docs.netlify.com/visual-editor/local-development/)
     actions:
       - type: Button
         label: ENROLL NOW
