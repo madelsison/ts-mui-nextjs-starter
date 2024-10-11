@@ -31,7 +31,7 @@ sections:
     subtitle: TESDA courses
     items:
       - type: Card
-        title: Web Development NC II
+        title: Web Development NC III
         image:
           type: Image
           url: /images/nextjs.svg
