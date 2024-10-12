@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Master the Future of Web Development
-    subtitle: Featuring Web Development NC III
+    subtitle: ''
     text: >
       Build cutting-edge websites, craft stunning user interfaces, and innovate
       with the latest technologies. Whether you're a beginner or a pro, our
